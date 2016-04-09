@@ -1,0 +1,28 @@
+
+#St-details{
+    margin-top: 2%;
+}
+
+.card {
+   margin-top: 4%;
+    margin-bottom: 4%;
+    border-color: lightgrey;
+    border-style: solid;
+    border-radius: 25px;
+    background-color: lavender;
+}
+h2{
+    color: #2aabd2;
+}
+
+
+#rollnobox{
+
+
+    margin-top: 10%;
+
+}
+.margindown{
+    margin-bottom: 10%;
+
+}
